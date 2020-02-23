@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 90;
+}
+
+.tag {
+  opacity: 0.8;
+}
+.head {
+  margin-left: 500px;
+}
+.body {
+  margin-left: 200px;
+}
